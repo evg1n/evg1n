@@ -1,6 +1,6 @@
 # About
 
-- Full-stack Web Developer with 3+ years of professional experience. 
+- Full-stack Web Developer with 4 years of professional experience. 
 
 - Fluent in <img src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png" alt="React" width="25"/> <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="Node.js" width="25"/> <img src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="MongoDB" width="25"/>
 
