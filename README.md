@@ -2,7 +2,7 @@
 
 - Full-stack Web Developer with 4 years of professional experience. 
 
-- Fluent in <img src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png" alt="React" width="25"/> <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="Node.js" width="25"/> <img src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="MongoDB" width="25"/>
+- Fluent in <img style="margin-bottom: -.5em" src="https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png" alt="React" width="25"/> <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" alt="Node.js" width="25"/> <img src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="MongoDB" width="25"/>
 
 - Into mobile development with <img src="https://hopetutors.com/wp-content/uploads/2018/07/514-5142665_react-native-transparent-react-native-logo-png-png.png" alt="React Native" height="25"/> <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="Expo" height="25"/>
 
