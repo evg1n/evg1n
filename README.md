@@ -10,7 +10,7 @@
 
 ## Contact
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/761px-Outlook.com_icon_%282012-2019%29.svg.png" alt="evginserbest@outlook.com" height="16"/> [evginserbest@outlook.com](mailto:evginserbest@outlook.com)
-- <img src="![linkedin](https://github.com/evg1n/evg1n/assets/10906736/9364df82-6fa4-4d7a-9a43-44bc3282e2e6)" alt="LinkedIn" height="16"/> [Evgin Serbest on LinkedIn](https://linkedin.com/in/evgin)
+- <img src="https://github.com/evg1n/evg1n/assets/10906736/9364df82-6fa4-4d7a-9a43-44bc3282e2e6" alt="LinkedIn" height="16"/> [Evgin Serbest on LinkedIn](https://linkedin.com/in/evgin)
 
 ## Hire Me
 - <img src="https://w7.pngwing.com/pngs/80/704/png-transparent-upwork-hd-logo.png" alt="Upwork" height="16"/> [Evgin Serbest on Upwork](https://www.upwork.com/freelancers/~0114cf2be764b55a2b)
