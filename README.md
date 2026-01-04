@@ -14,6 +14,3 @@
 
 ## Hire Me
 - <img src="https://w7.pngwing.com/pngs/80/704/png-transparent-upwork-hd-logo.png" alt="Upwork" height="16"/> [Evgin Serbest on Upwork](https://www.upwork.com/freelancers/~0114cf2be764b55a2b)
-
-### Visitors
-![Visitor Count](https://profile-counter.glitch.me/evg1n/count.svg)
